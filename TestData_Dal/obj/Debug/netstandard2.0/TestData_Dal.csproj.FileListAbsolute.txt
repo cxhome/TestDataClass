@@ -1,0 +1,4 @@
+C:\TFS.Code\Study\TestData\TestData_Dal\obj\Debug\netstandard2.0\TestData_Dal.csprojResolveAssemblyReference.cache
+C:\TFS.Code\Study\TestData\TestData_Dal\obj\Debug\netstandard2.0\TestData_Dal.csproj.CoreCompileInputs.cache
+C:\TFS.Code\Study\TestData\TestData_Dal\obj\Debug\netstandard2.0\TestData_Dal.AssemblyInfoInputs.cache
+C:\TFS.Code\Study\TestData\TestData_Dal\obj\Debug\netstandard2.0\TestData_Dal.AssemblyInfo.cs

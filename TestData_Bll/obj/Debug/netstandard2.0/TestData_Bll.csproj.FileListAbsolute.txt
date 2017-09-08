@@ -1,0 +1,11 @@
+C:\TFS.Code\Study\TestData\TestData_Bll\bin\Debug\netstandard2.0\TestData_Bll.deps.json
+C:\TFS.Code\Study\TestData\TestData_Bll\bin\Debug\netstandard2.0\TestData_Bll.dll
+C:\TFS.Code\Study\TestData\TestData_Bll\bin\Debug\netstandard2.0\TestData_Bll.pdb
+C:\TFS.Code\Study\TestData\TestData_Bll\bin\Debug\netstandard2.0\TestData_Model.dll
+C:\TFS.Code\Study\TestData\TestData_Bll\bin\Debug\netstandard2.0\TestData_Model.pdb
+C:\TFS.Code\Study\TestData\TestData_Bll\obj\Debug\netstandard2.0\TestData_Bll.csprojResolveAssemblyReference.cache
+C:\TFS.Code\Study\TestData\TestData_Bll\obj\Debug\netstandard2.0\TestData_Bll.csproj.CoreCompileInputs.cache
+C:\TFS.Code\Study\TestData\TestData_Bll\obj\Debug\netstandard2.0\TestData_Bll.AssemblyInfoInputs.cache
+C:\TFS.Code\Study\TestData\TestData_Bll\obj\Debug\netstandard2.0\TestData_Bll.AssemblyInfo.cs
+C:\TFS.Code\Study\TestData\TestData_Bll\obj\Debug\netstandard2.0\TestData_Bll.dll
+C:\TFS.Code\Study\TestData\TestData_Bll\obj\Debug\netstandard2.0\TestData_Bll.pdb
